@@ -1,3 +1,6 @@
+> 💡 "The best way to predict the future is to invent it." — Alan Kay
+
+
 ### Hey there! 👋 Welcome to my GitHub!
 
 I'm **Christopher Mendes**, a passionate Full Stack Developer from **Curitiba, Brazil** 🌎. I’m here to help turn ideas into powerful, tech-driven solutions!
@@ -15,7 +18,12 @@ I love working on both front-end and back-end projects, specializing in **Larave
 ### 🔧 Tech Stack
 
 <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white" /> </p>
-  
+
+---
+
+### 🌟 Featured Projects
+- [**Finance Manager App**](#) – [comming soon]
+
 ---
 
 ### 🤝 How I Can Help
