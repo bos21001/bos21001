@@ -14,21 +14,7 @@ I love working on both front-end and back-end projects, specializing in **Larave
 
 ### 🔧 Tech Stack
 
-Here's a sneak peek at the tools I’m working with:
-
-- **Languages**: PHP, JavaScript, Python, SQL
-- **Frameworks**: Laravel, React, Django
-- **Tools**: Git, Docker, Unix shell scripting
-- **Methodologies**: Agile (SCRUM), Microservices architecture
-
----
-
-### 🧠 What I’m Into
-
-- Building modern and secure APIs (love me some RESTful development).
-- Crafting database designs that are both scalable and efficient.
-- Working with **Git** to keep everything under control.
-- Experimenting with **Docker** to make environments predictable and portable.
+<p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white" /> </p>
   
 ---
 
